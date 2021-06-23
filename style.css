@@ -1,0 +1,116 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Oswald', sans-serif;
+	background: #CAE6E2;
+	font-size: 20px;
+}
+header{
+	width: 100%;
+	height: 70px;
+	background: #3F4746;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-center;
+}
+header a{
+	color: #79D1C5;
+	text-decoration: none;
+	margin-right: 5px;
+}
+a:hover{
+	color: white;
+}
+.logo{
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+.icon{
+	display: inline-block;
+	margin: 10px;
+}
+nav{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.active{
+	color: #56948C;
+}
+main{
+	padding: 10px;
+}
+.opisanie{
+	display: inline-block;
+	width: 50%;
+}
+.img1{
+	width: 25%;
+	margin-left: 15%;
+}
+h1{
+	text-align: center;
+}
+.slogan{
+	color: #56948C;
+	font-size: 25px;
+}
+.container1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+.card{
+	width: 300px;
+	height: 350px;
+	background: #3F4746;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+.card a{
+	padding-top: 5px;
+	color: white;
+	text-decoration: none;
+}
+.card{
+	width: 320px;
+	heigth: 380px;
+}
+.card a:hover{
+	color: #79D1C5;
+}
+footer{
+	padding-top: 5px;
+	background: #3F4746;
+	color: white;
+	height: 100px;
+}
+footer a{
+	color: white;
+	text-decoration: none;
+	padding: 5px;
+}
+footer a:hover{
+	color: #79D1C5;
+}
+h4{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	font-size: 30px;
+}
+.ssylpitanie{
+	text-decoration: none;
+	color: #3F4746;
+	font-size: 25px;
+}
+.oomvideo{
+	text-decoration: none;
+	color: #56948C;
+	font-size: 25px;
+
+}
